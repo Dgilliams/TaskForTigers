@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskForTigers</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_tasks"> You have no tasks, add one </string>
+    <string name="some_tasks"> You have no tasks, add one </string>
+    <string name="title_activity_task_details">TaskDetailsActivity</string>
+
+
+</resources>
